@@ -1,6 +1,6 @@
 # Hola, soy Renzo Espinola 👋
 
-Soy un Java Full Stack Developer con experiencia en tecnologías como Spring Boot, Spring Admin, Spring Config y Docker. ¡Bienvenido a mi perfil de GitHub!
+Soy Java Full Stack Developer con experiencia en tecnologías como Spring Boot, Spring Admin, Spring Config y Docker. ¡Bienvenido a mi perfil de GitHub!
 
 ## Acerca de mí
 
