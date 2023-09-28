@@ -5,9 +5,9 @@ Soy un Java Full Stack Developer con experiencia en tecnologías como Spring Boo
 ## Acerca de mí
 
 - 🌟 **Profesión:** Java Full Stack Developer
-- 💼 **Experiencia:** VAADIN, Java 8
-- 🚀 **Tecnologías:** Spring Boot, Spring Admin, Spring Config, Docker
-
+- 💼 **Experiencia:** VAADIN, Java 8, Java 11, Python
+- 🚀 **Tecnologías:** Spring Boot, Spring Admin, Spring Config, Docker, 
+ 
 ## Proyectos Destacados
 
 - [Nombre del Proyecto 1](enlace_al_proyecto_1): Breve descripción del proyecto.
