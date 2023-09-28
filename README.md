@@ -8,14 +8,9 @@ Soy un Java Full Stack Developer con experiencia en tecnologías como Spring Boo
 - 💼 **Experiencia:** VAADIN, Java 8, Java 11, Python
 - 🚀 **Tecnologías:** Spring Boot, Spring Admin, Spring Config, Docker, 
  
-## Proyectos Destacados
-
-- [Nombre del Proyecto 1](enlace_al_proyecto_1): Breve descripción del proyecto.
-- [Nombre del Proyecto 2](enlace_al_proyecto_2): Breve descripción del proyecto.
-
 ## Contacto
 
-- [LinkedIn](enlace_a_tu_perfil_de_LinkedIn)
-- [Correo Electrónico](tu_correo_electronico)
+- [LinkedIn](https://www.linkedin.com/in/renzo-oscar-alejo-espinola-82985720a)
+- [Correo Electrónico](renzo.espinola87@gmail.com)
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y conectarte conmigo.
