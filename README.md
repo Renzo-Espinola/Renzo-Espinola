@@ -5,8 +5,13 @@ Soy Java Full Stack Developer con experiencia en tecnologías como Spring Boot, 
 ## Acerca de mí
 
 - 🌟 **Profesión:** Java Full Stack Developer
-- 💼 **Experiencia:** VAADIN, Java 8, Java 11, Python
-- 🚀 **Tecnologías:** Spring Boot, Spring Admin, Spring Config, Docker, 
+- 💼 **Experiencia laboral:
+  
+    -  Galeno Prepaga proyecto liquidaciones - EpiData SA
+    -  MAV(Mercado Argentino de Valores) - AUNE
+   
+- 🚀 **Tecnologías:** Spring Boot, Spring Admin, Spring Config, Docker, Eureka discovery, VAADIN, Java 8, Java 11, Python
+ 
  
 ## Contacto
 
