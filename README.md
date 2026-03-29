@@ -11,7 +11,15 @@ Soy Java Full Stack Developer con experiencia en tecnologías como Spring Boot, 
     -  MAV(Mercado Argentino de Valores) - AUNE
     -  NaranjaX
    
-- 🚀 **Tecnologías:** Spring Boot, Spring Admin, Spring Config, Docker, Eureka discovery, VAADIN, Java 8, Java 11, Python
+- 🚀 **Tecnologías:**
+    - Spring Boot, Spring Batch
+    - Docker
+    - VAADIN
+    - Java 25
+    - Python
+    - Jpos
+    - AWS
+    - Kafka
 
   Aquí encontrarás una lista de algunos de mis proyectos destacados:
 
