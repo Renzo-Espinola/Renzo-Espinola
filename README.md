@@ -9,6 +9,7 @@ Soy Java Full Stack Developer con experiencia en tecnologías como Spring Boot, 
   
     -  Galeno Prepaga proyecto liquidaciones - EpiData SA
     -  MAV(Mercado Argentino de Valores) - AUNE
+    -  NaranjaX
    
 - 🚀 **Tecnologías:** Spring Boot, Spring Admin, Spring Config, Docker, Eureka discovery, VAADIN, Java 8, Java 11, Python
 
